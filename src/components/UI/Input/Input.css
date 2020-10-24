@@ -1,0 +1,8 @@
+.textField {
+    max-width: 145px;
+    border: none;
+}
+
+.textField:focus {
+    outline: none;
+}
